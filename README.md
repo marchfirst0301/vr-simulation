@@ -7,3 +7,6 @@ main branch test 111
 ### Code
 
 ```\var induk =
+set
+magnum
+ready fight
